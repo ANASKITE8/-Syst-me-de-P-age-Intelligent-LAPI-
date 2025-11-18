@@ -1,5 +1,5 @@
 🚗 Vehicle Detection System - Step 1 of License Plate Recognition Pipeline
-Author: Your Name
+Author: Anas Elhassouni
 Date: October 28, 2025
 Version: 1.0.0
 
@@ -307,6 +307,7 @@ Complete documentation
 Ultralytics YOLOv11 Documentation
 OpenCV Documentation
 COCO Dataset Classes
+
 
 
 Happy Detecting! 🚗💨
