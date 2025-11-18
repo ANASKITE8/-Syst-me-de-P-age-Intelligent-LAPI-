@@ -1,0 +1,11 @@
+# Vehicle Detection Pipeline - Requirements
+# Python 3.8+ required
+
+# Core Dependencies (REQUIRED)
+opencv-python==4.8.1.78
+ultralytics==8.3.221
+cvzone==1.6.1
+numpy==1.26.4
+
+# Note: PyTorch will be installed automatically with ultralytics
+# For GPU support (optional): pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
